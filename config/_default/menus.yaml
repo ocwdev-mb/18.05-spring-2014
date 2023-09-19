@@ -1,0 +1,77 @@
+leftnav:
+- identifier: ac53cbde-5f80-dfed-cf91-80c97c88acee
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 34f1a99d-c912-2193-c437-231b1fc08afe
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 579c055a-ccb4-eb7e-bb6b-f294146b45a5
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 40
+- identifier: 94de8151-483a-826f-90af-93d292b79cf2
+  name: Class Slides
+  pageRef: /pages/class-slides
+  weight: 50
+- identifier: fed85a98-064c-2e2a-4378-f3f7549df9b8
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 60
+- identifier: ad95d694-8a5a-21e8-d68c-2ed80b877e38
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
+- identifier: 795a5521-0a16-d54d-c4e8-910a0c21496f
+  name: Studio Resources
+  pageRef: /pages/studio-resources
+  weight: 80
+- identifier: a4d4ed52-37df-946d-c2b1-9d114f44c277
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
+- identifier: 2d69a0de-0f58-08a2-3880-f4a28f594d72
+  name: Course History
+  pageRef: /pages/instructor-insights/course-history
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 10
+- identifier: e612a220-f47d-26cb-1df4-1379920545d8
+  name: A Unified Curriculum with Bayesian Statistics
+  pageRef: /pages/instructor-insights/a-unified-curriculum-with-bayesian-statistics
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 20
+- identifier: c087d0ea-b9b0-a8e6-9867-02428a46325e
+  name: Targeted Readings and Online Reading Questions
+  pageRef: /pages/instructor-insights/targeted-readings-and-questions
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 30
+- identifier: 47372cd3-e919-0e97-d65a-ddc960247454
+  name: Problem Set Checkers
+  pageRef: /pages/instructor-insights/problem-set-checker
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 40
+- identifier: a3b80720-d701-2da0-a420-760cbd667430
+  name: Clicker Questions
+  pageRef: /pages/instructor-insights/clicker-questions
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 50
+- identifier: 3f220109-a2fa-c42b-47f0-b1be29e4f8ab
+  name: Trust in an Active Learning Classroom
+  pageRef: /pages/instructor-insights/trust-in-an-active-learning-classroom
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 60
+- identifier: bcc7c9ac-7b81-71b2-3cc4-5d69d98f83cd
+  name: Co-Teaching
+  pageRef: /pages/instructor-insights/co-teaching
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 70
+- identifier: 12233ebe-f550-072f-c1cb-c292891e2f81
+  name: Challenges
+  pageRef: /pages/instructor-insights/challenges
+  parent: 1b685882-0e39-dbc6-ba03-dc47858871bd
+  weight: 80
